@@ -12,17 +12,41 @@ var height = 1.60
 
 print("Hello my name is" , name , "I enjoy" , hobby1 , "and", hobby2 , ". I  am" , age , "years old and my height is" , height ,".")
 
-//let firendName = "Lujain"
+let firendName = "Lujain"
 
-//var friendHobby1 = "Programming"
+var friendHobby1 = "Programming"
 
-//var friendHobby2 = "Swimming"
+var friendHobby2 = "Swimming"
 
-//var friendAge = 17
+var friendAge = 17
 
-//var friendHeight = 1.60
+var friendHeight = 1.60
 
-//print("Hello my  friends name is" , firendName , "she enjoys" , friendHobby1 , "and", friendHobby2 , ". She is" , friendAge , "years old and her height is" , friendHeight ,".")
+print("Hello my  friends name is" , firendName , "she enjoys" , friendHobby1 , "and", friendHobby2 , ". She is" , friendAge , "years old and her height is" , friendHeight ,".")
 
+name == firendName
 
+name != firendName
+
+friendAge < age
+
+friendAge > age
+
+friendAge <= age
+
+friendAge >= age
+
+friendAge == age
+
+friendHeight == height
+
+friendHeight >= height
+
+friendHeight <= height
+
+friendHeight != height
+
+friendHobby1 != hobby1
+
+friendHobby2 == hobby2
 
